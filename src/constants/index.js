@@ -15,12 +15,11 @@ import {
     git,
     figma,
     docker,
-    meta,
-    starbucks,
-    tesla,
-    shopify,
-    carrent,
-    jobit,
+    canon,
+    ek,
+    kmd,
+    toolkit,
+    trendmicro,
     tripguide,
     threejs,
   } from "../assets";
@@ -106,7 +105,7 @@ import {
     {
       title: "Application Engineer",
       company_name: "Canon Business Machines Philippines",
-      icon: starbucks,
+      icon: canon,
       iconBg: "#383E56",
       date: "Nov 2015 - Feb 2017",
       points: [
@@ -119,7 +118,7 @@ import {
     {
       title: "Technical Support Specialist",
       company_name: "Toolkit",
-      icon: tesla,
+      icon: toolkit,
       iconBg: "#E6DEDD",
       date: "Mar 2017 - Oct 2017",
       points: [
@@ -131,7 +130,7 @@ import {
     {
       title: "Web Developer",
       company_name: "Globe Telecom - KonsultaMD",
-      icon: shopify,
+      icon: kmd,
       iconBg: "#383E56",
       date: "Jan 2022 - Jan 2023",
       points: [
@@ -144,7 +143,7 @@ import {
     {
       title: "Backend Developer",
       company_name: "Eurekare Corp.",
-      icon: meta,
+      icon: ek,
       iconBg: "#E6DEDD",
       date: "Aug 2019 - May 2021",
       points: [
@@ -156,7 +155,7 @@ import {
     {
       title: "Sr. Frontend Engineer",
       company_name: "Trend Micro, Inc.",
-      icon: meta,
+      icon: trendmicro,
       iconBg: "#E6DEDD",
       date: "Jun 2021 - May 2023",
       points: [
